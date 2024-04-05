@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(3, 12, 112);
+}
+.heading{
+    color: white;
+    text-align: center;
+    text-decoration:solid;
+
+}
+main{
+  display: flex;
+  justify-content: space-evenly; /* makes item center of x axix */
+  /* align-items: center; */
+}
+.player_1{
+    background-color: #ec9822;
+    text-align: center;
+}
+#choose_img,#comp{
+   height:200px;
+   width:200px;
+}
+#image{
+    height:300px;
+    width: 200px;
+}
+/* .option{
+    
+} */
+.computer{
+    background-color: yellowgreen;
+    text-align: center;
+}
+.result{
+    color: white;
+    text-align: center;
+}
